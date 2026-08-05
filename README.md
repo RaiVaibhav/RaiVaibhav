@@ -5,6 +5,7 @@
 ### Hi, I'm Vaibhav 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raivaibhav08/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raivaibhav.vercel.app/)
 [![Medium](https://img.shields.io/badge/Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raivaibhav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raivaibhav08@gmail.com)
 
@@ -62,9 +63,9 @@ Built the debugger toolset that lets you step directly into an analyzer's own co
 
 **Svelte compiler**
 
-Fixed a scoping bug where a `var` declared inside a reactive block leaked outside it — a real compiler correctness fix, not a doc tweak.
+Five merged PRs into Svelte's own compiler over a few years — mostly bug fixes (a `var` leaking scope outside a reactive block, a `const`-assignment error during keyed each-block swaps, a source-map regression), plus one actual feature: a new read-only `focused` binding, now in Svelte 5.
 
-🔗 Merged: <a href="https://github.com/sveltejs/svelte/pull/6800"><code>sveltejs/svelte#6800</code></a> — *fix: var scope should not extend outside the reactive block*
+🔗 Merged: <a href="https://github.com/sveltejs/svelte/pull/6800"><code>#6800</code></a> · <a href="https://github.com/sveltejs/svelte/pull/7966"><code>#7966</code></a> · <a href="https://github.com/sveltejs/svelte/pull/7526"><code>#7526</code></a> · <a href="https://github.com/sveltejs/svelte/pull/6842"><code>#6842</code></a> · <a href="https://github.com/sveltejs/svelte/pull/11271"><code>#11271</code></a>
 
 </td>
 </tr>
