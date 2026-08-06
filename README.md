@@ -5,7 +5,6 @@
 ### Hi, I'm Vaibhav 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raivaibhav08/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raivaibhav.vercel.app/)
 [![Medium](https://img.shields.io/badge/Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raivaibhav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raivaibhav08@gmail.com)
 
