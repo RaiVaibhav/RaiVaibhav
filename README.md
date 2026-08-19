@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer;I+battle+CSS+more+than+DS+Algo;Runner+%C2%B7+Paragliding+Pilot+%C2%B7+Skydiver;Currently+building+Bandhu+%2B+NatureFix" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;I+battle+CSS+more+than+DS+Algo;Runner+%C2%B7+Paragliding+Pilot+%C2%B7+Skydiver;Currently+building+Bandhu+%2B+NatureFix" alt="Typing SVG" />
 
 ### Hi, I'm Vaibhav 👋
 
